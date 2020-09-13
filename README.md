@@ -1,7 +1,7 @@
-### Hi there 👋 I'm Yuya Ohbayashi.
+### Hi there 🐙 I'm Yuya Ohbayashi.
 
 - 💻 I’m currently working on data engineering.
-- 🖋 I’m currently learning statustucal learning with python.
+- 🖋 I’m currently learning  learning with python.
 
 ### Github Readme Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
