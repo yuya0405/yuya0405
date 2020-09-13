@@ -1,4 +1,4 @@
-### Hi There 🐧  I'm Yuya Ohbayashi.
+### Hi There 🐧 I'm Yuya Ohbayashi.
 
 - 💻 I’m currently working on data engineering.
 - 🖋 I’m currently learning  learning with python.
