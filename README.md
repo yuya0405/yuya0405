@@ -2,7 +2,6 @@
 
 - 💻 I’m currently working on data engineering.
 - 🖋 I’m currently learning statustucal learning with python.
-- 💬 Ask me about money management
 
 ### Github Readme Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
