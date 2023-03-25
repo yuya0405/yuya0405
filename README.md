@@ -1,5 +1,5 @@
 # COMMIT STATUS
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yuya0405&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=yuya0405&theme&theme=transparent)](https://git.io/streak-stats)
 
 # JOB HUNTING
 - [Wantedly](https://www.wantedly.com/id/oh884U8)
