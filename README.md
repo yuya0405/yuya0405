@@ -5,3 +5,9 @@
 - [Wantedly](https://www.wantedly.com/id/oh884U8)
 - [LAPRAS](https://lapras.com/public/oh884U8)
 - [LinkedIn](https://www.linkedin.com/in/yuya-ohbayashi/)
+
+# BLOG
+
+- [Qiita](https://qiita.com/oh884U8)
+- [Zenn](https://zenn.dev/octet)
+- [note](https://note.com/vanillalala/)
