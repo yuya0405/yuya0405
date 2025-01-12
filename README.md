@@ -1,5 +1,5 @@
 # COMMIT STATUS
-[![GitHub Streak](https://streak-stats.demolab.com/?user=yuya0405&theme&theme=transparent)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=yuya0405&theme=transparent)](https://git.io/streak-stats)
 
 # BLOG
 
