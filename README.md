@@ -6,3 +6,8 @@
 - [Qiita](https://qiita.com/oh884U8)
 - [Zenn](https://zenn.dev/octet)
 - [note](https://note.com/vanillalala/)
+
+# JOB HUNTING
+
+- [Wantedly](https://www.wantedly.com/id/oh884U8)
+- [LAPRAS](https://lapras.com/public/oh884U8)
