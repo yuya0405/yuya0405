@@ -9,5 +9,5 @@
 
 # JOB HUNTING
 
-- [Wantedly](https://www.wantedly.com/id/oh884U8)
 - [LAPRAS](https://lapras.com/public/oh884U8)
+- [Wantedly](https://www.wantedly.com/id/oh884U8)
